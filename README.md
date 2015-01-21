@@ -1,3 +1,3 @@
 # calendarmanager
-Prosject 2015
+Project 2015
 
